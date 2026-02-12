@@ -1,6 +1,6 @@
 # Kiro 
 # Maitri AI 🇮🇳🤖  
-#"Voice-first AI Assistant for Bharat with Offline + Online Intelligence"
+# "Voice-first AI Assistant for Bharat with Offline + Online Intelligence"
 ### Voice Assistant for Bharat (WhatsApp + Mobile App)
 
 Maitri AI is a multilingual **voice + text assistant** designed for citizens across Bharat, especially users in rural and low-connectivity regions. It supports interaction through **WhatsApp** and a **Mobile Application**, enabling users to ask queries using voice notes or text messages.
