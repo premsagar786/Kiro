@@ -1,4 +1,3 @@
-# Kiro 
 # Maitri AI 🇮🇳🤖  
 # "Voice-first AI Assistant for Bharat with Offline + Online Intelligence"
 ### Voice Assistant for Bharat (WhatsApp + Mobile App)
