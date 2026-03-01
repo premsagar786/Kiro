@@ -1,8 +1,0 @@
-{
-  "name": "LegalEase AI",
-  "description": "A modern legal tech tool that simplifies complex Indian legal documents into plain English using Gemini 2.5 Flash.",
-  "requestFramePermissions": [
-    "microphone",
-    "camera"
-  ]
-}
